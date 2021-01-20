@@ -1,78 +1,22 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Fulton County Property Parser
+subtitle: Desktop app to navigate real estate data for non-profit
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This application was created for the Georgia Trust for Historic Preservation's Westside Atlanta Preservation initiative. The organization needed to speed up the acquisition process for historic properties that would be rehabilitated and resold to the Atlanta Land Trust as permanent affordable housing.
 
-**Here is some bold text**
+**Technology:** this application was created with Node and Express. Because of large storage requirements and to facilitate maintenance by GTHP, this application is run and hosted locally and accessed through a browser.
 
-## Here is a secondary heading
+## The Application
 
-Here's a useless table:
+![Website](https://drive.google.com/file/d/1iR2FmfO_6cOPZ2MavzUKJDcZ6fqjfCyR/view?usp=sharing)
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+**Download Link for Windows:**
+https://drive.google.com/file/d/1P28uCtj5HFKOwRzR4Okqiulq5Hn-8l1u/view?usp=sharing
 
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+After running the file, you may load the webpage by typing "localhost:5000" through your browser addressbar. 
