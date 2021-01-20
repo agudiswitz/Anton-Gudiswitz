@@ -11,7 +11,7 @@ This application was created for the Georgia Trust for Historic Preservation's W
 
 ## The Application
 
-![Crepe](https://github.com/agudiswitz/Anton-Gudiswitz/blob/master/assets/GTHPHousfinder.jpg)
+![Property Parser website image showing search fields, and the result of a search: a table of values](https://github.com/agudiswitz/Anton-Gudiswitz/blob/master/assets/GTHPHousfinder.jpg)
 
 
 **Download Link for Windows:**
