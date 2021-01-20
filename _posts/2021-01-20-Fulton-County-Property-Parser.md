@@ -2,10 +2,7 @@
 layout: post
 title: Fulton County Property Parser
 subtitle: Desktop app to navigate real estate data for non-profit
-gh-repo:  agudiswitz/Anton-Gudiswitz
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+comments: false
 ---
 
 This application was created for the Georgia Trust for Historic Preservation's Westside Atlanta Preservation initiative. The organization needed to speed up the acquisition process for historic properties that would be rehabilitated and resold to the Atlanta Land Trust as permanent affordable housing.
