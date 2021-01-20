@@ -11,9 +11,11 @@ This application was created for the Georgia Trust for Historic Preservation's W
 
 ## The Application
 
-![Crepe](https://github.com/agudiswitz/Anton-Gudiswitz/blob/master/assets/GTHPHousfinder.jpg){: .mx-auto.d-block :}
+![Crepe](https://github.com/agudiswitz/Anton-Gudiswitz/blob/master/assets/GTHPHousfinder.jpg)
+
 
 **Download Link for Windows:**
+In case you'd like to run it yourself.
 https://drive.google.com/file/d/1P28uCtj5HFKOwRzR4Okqiulq5Hn-8l1u/view?usp=sharing
 
 After running the file, you may load the webpage by typing "localhost:5000" through your browser addressbar. 
