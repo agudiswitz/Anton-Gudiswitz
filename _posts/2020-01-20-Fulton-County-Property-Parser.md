@@ -2,7 +2,7 @@
 layout: post
 title: Fulton County Property Parser
 subtitle: Desktop app to navigate real estate data for non-profit
-gh-repo: daattali/beautiful-jekyll
+gh-repo:  agudiswitz/Anton-Gudiswitz
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
